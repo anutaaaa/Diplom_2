@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.praktikum_services.stellar_burgers.RegisterUserTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.042 s - in ru.praktikum_services.stellar_burgers.RegisterUserTest
