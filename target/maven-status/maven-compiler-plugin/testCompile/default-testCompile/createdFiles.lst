@@ -1,0 +1,6 @@
+ru\praktikum_services\stellar_burgers\BaseApi.class
+ru\praktikum_services\stellar_burgers\GetOrderTest.class
+ru\praktikum_services\stellar_burgers\LoginTest.class
+ru\praktikum_services\stellar_burgers\UpdateDataTest.class
+ru\praktikum_services\stellar_burgers\CreateOrderTest.class
+ru\praktikum_services\stellar_burgers\RegisterUserTest.class
